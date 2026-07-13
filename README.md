@@ -17,9 +17,8 @@ I am part of the **CubeSat "Boîte Noire" (Black Box)** team from LéoFly.
 
 The CubeSat Boîte Noire belongs to the rocket's **experiments** section. Experiments are independent compartments, each dedicated to a specific task such as data collection, computing the rocket's rotation, and so on.
 
-<p align="center">
-  <img src="images/experiences.jpg" alt="Experiments section of the rocket" width="500"/>
-</p>
+<img width="567" height="163" alt="Image" src="https://github.com/user-attachments/assets/2e06b269-d366-4219-b36b-aa9c7f32b415" />
+
 
 It operates throughout the whole flight, from liftoff to landing. Its role is to **securely record** the rocket's velocity, GPS position and telemetry data, and to drive a **buzzer signal** used to locate the rocket after touchdown.
 
@@ -31,27 +30,25 @@ In the flight chain, it is active from initialization before liftoff and stays o
 
 It also serves as a **test bench** for the systems of the future **ASTRA-AP** rocket.
 
-<p align="center">
-  <img src="images/chaine-de-vol.jpg" alt="Flight-chain integration" width="500"/>
-</p>
+<img width="521" height="283" alt="Image2" src="https://github.com/user-attachments/assets/ee7bcb32-c879-4f1a-ae95-ac75197668a5" />
+<img width="720" height="302" alt="image" src="https://github.com/user-attachments/assets/072413cb-4eec-4803-a72f-eb1727c2d653" />
+
 
 ## 🔧 What we did
 
 With the CubeSat team, we started by **modeling the complete solution** in CAD. After running **MATLAB simulations**, we used the results to **rearrange the internal layers into the most optimal configuration**.
 
-<p align="center">
-  <img src="images/simulation-matlab.jpg" alt="MATLAB simulation results" width="500"/>
-</p>
+<img width="210" height="479" alt="Image3" src="https://github.com/user-attachments/assets/9ad5711f-8f54-4d1f-a64e-c51a9403dda5" />
+
 
 This iterative process led us to the **final assembly**.
 
-<p align="center">
-  <img src="images/assemblage-final.jpg" alt="Final CubeSat assembly" width="500"/>
-</p>
+<img width="1520" height="842" alt="Assemblage CubeSat Insh v15" src="https://github.com/user-attachments/assets/5e8a03f2-a235-43ce-af19-57ebdfb51ba1" />
+
 
 ## 🛠️ Tools & technologies
 
-`CATIA` · `MATLAB` · `Arduino` · `C++`
+`Fusion` · `MATLAB` · `Arduino` .
 
 ---
 
