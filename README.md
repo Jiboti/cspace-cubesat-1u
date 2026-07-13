@@ -34,6 +34,9 @@ It also serves as a **test bench** for the systems of the future **ASTRA-AP** ro
 <img width="720" height="302" alt="image" src="https://github.com/user-attachments/assets/072413cb-4eec-4803-a72f-eb1727c2d653" />
 
 
+🔧 What we did
+
+
 I joined the team at the start of the second semester, after a semester abroad. A first functional version of the mechanical parts had already been modeled, but the RCE 1 design review had shown that it did not yet meet all the required constraints. The objective was therefore reset around a clear goal: remodel and optimize the existing layers so the assembly would fully comply with the 1U format and integrate cleanly into the CubeSat rack.
 
 The approach was deliberately iterative — start from the existing version, identify the non-conformities, then remodel and optimize the parts concerned. In practice, the work went through a few main stages:
