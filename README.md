@@ -1,9 +1,7 @@
 <h1 align="center">🛰️ C'space CubeSat 1U — "Boîte Noire"</h1>
 <h4 align="center">Onboard black-box CubeSat for an experimental rocket — C'Space campaign (CNES / Planète Sciences)</h4>
 
-<p align="center">
-  <img src="images/cubesat-banner.jpg" alt="C'space CubeSat 1U" width="600"/>
-</p>
+
 
 > ⚠️ **Work in progress & competition project.** This CubeSat is still under active development as part of a national competition. To protect the team's technical know-how, this page stays at a general level — exact measurements, detailed schematics and precise flight data are intentionally not disclosed.
 
