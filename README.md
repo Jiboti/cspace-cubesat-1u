@@ -13,7 +13,7 @@
 
 C'Space is a national campaign run by **Planète Sciences** in partnership with the **CNES** (French space agency), gathering student teams each year around experimental rocket projects. It frames a complete space project — from design to flight — through technical reviews and rigorous testing phases.
 
-I am part of the **CubeSat "Boîte Noire" (Black Box)** team.
+I am part of the **CubeSat "Boîte Noire" (Black Box)** team from LéoFly.
 
 ## 🛰️ The mission
 
