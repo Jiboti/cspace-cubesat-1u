@@ -34,14 +34,22 @@ It also serves as a **test bench** for the systems of the future **ASTRA-AP** ro
 <img width="720" height="302" alt="image" src="https://github.com/user-attachments/assets/072413cb-4eec-4803-a72f-eb1727c2d653" />
 
 
-## 🔧 What we did
+I joined the team at the start of the second semester, after a semester abroad. A first functional version of the mechanical parts had already been modeled, but the RCE 1 design review had shown that it did not yet meet all the required constraints. The objective was therefore reset around a clear goal: remodel and optimize the existing layers so the assembly would fully comply with the 1U format and integrate cleanly into the CubeSat rack.
 
-With the CubeSat team, we started by **modeling the complete solution** in CAD. After running **MATLAB simulations**, we used the results to **rearrange the internal layers into the most optimal configuration**.
+The approach was deliberately iterative — start from the existing version, identify the non-conformities, then remodel and optimize the parts concerned. In practice, the work went through a few main stages:
+
+
+Onboarding — regular exchanges with the team to establish a precise picture of the project and define priorities.
+Layer recalculation — reworking the internal stack-up so the electronic board integrates correctly into the rack, while accounting for the fixed thickness of the mechanical protection layers.
+Rack redesign — the biggest structural change: consolidating the electronics from several boards down to a single one, which let us rebuild the rack from three shelves to one — freeing up space and simplifying the mechanical fixation.
+Design review (RCE 1) — preparing the technical presentation to formalize the progress made and gather feedback for the next steps.
+
+In parallel, we ran MATLAB simulations to justify the shock-absorption strategy across the key flight phases (static, liftoff and landing). The modeling was itself instructive: it exposed the limits of a simplified 1D approach and pushed us to ground the final design choice in the physical crush behavior of the damping material rather than on the simulation alone — a good reminder that the model is a tool to reason with, not a proof on its own.
 
 <img width="210" height="479" alt="Image3" src="https://github.com/user-attachments/assets/9ad5711f-8f54-4d1f-a64e-c51a9403dda5" />
 
 
-This iterative process led us to the **final assembly**.
+This whole process — mechanical CAD/CAM in Fusion 360, custom PCB design in KiCad, and numerical simulation in MATLAB — led us to a more compact, better-optimized configuration and, ultimately, to the final assembly.
 
 <img width="1520" height="842" alt="Assemblage CubeSat Insh v15" src="https://github.com/user-attachments/assets/5e8a03f2-a235-43ce-af19-57ebdfb51ba1" />
 
